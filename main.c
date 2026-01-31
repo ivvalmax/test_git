@@ -7,6 +7,9 @@ int main(void)
 
     while(1)
     {
-        
+        for(uint8_t i = 0; i < 10; i++)
+        {
+            
+        }
     }
 }
