@@ -1,0 +1,13 @@
+{
+  "AVR.reporter.arguments": [
+    "-A"
+  ],
+  "AVR.source.compiler": "c:\\Users\\xxx\\_avr-gcc-12.1.0_avrdude-7.0\\bin\\avr-gcc.exe",
+  "AVR.programmer.tool": "c:\\Users\\xxx\\_avr-gcc-12.1.0_avrdude-7.0\\bin\\avrdude.exe",
+  "AVR.source.libraries": [],
+  "AVR.device.type": "atmega328p",
+  "AVR.device.frequency": 16000000,
+  "AVR.programmer.type": "arduino",
+  "AVR.programmer.port": "usb",
+  "AVR.programmer.rate": 115200
+}
